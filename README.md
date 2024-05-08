@@ -26,7 +26,9 @@ Enter your *Visual Studio Code* text editor by typing the **command**
  in your **terminal**. Then navigate to your *explorer* tab in the top left, hover over your file name and a series of buttons will appear. Select the button that says *New  File*. Name the new file ***index.html***.
  ## Creating the Emmet Abbreiviation
  In your ***index.html*** file, on line one write `!`. *Visual Studio Code* will offer up an autofill options. Select the first one.
+
  ![Emmet abbreviation autofill](./Capture.PNG)
+ 
  If you do not need to link *css* or *javascript* then congratulations, you have your boilerplate!
  ## Linking your HTML File to CSS and Javascript Files.
  Now, to link your *css* and *javascript* files.
